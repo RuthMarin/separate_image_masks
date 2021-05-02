@@ -4,4 +4,4 @@
 - separate each object into a different image
 
 
-![alt text](https://github.com/RuthMarin/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/RuthMarin/separate_image_masks/blob/master/image1.png?raw=true)
